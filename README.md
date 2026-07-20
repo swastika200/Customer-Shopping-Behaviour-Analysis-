@@ -15,7 +15,8 @@ following overarching business question:
 customer engagement, and optimize marketing and product strategies?”
 
 ## Project Poster
-![Project Poster] (project poster.png)
+
+![Project Poster](project_poster.png)
 
 
 📌 Project Overview
