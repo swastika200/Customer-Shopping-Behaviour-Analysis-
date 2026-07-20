@@ -1,18 +1,12 @@
-👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+# 🛍️ Customer Shopping Behaviour Analysis
 
-## Business Problem Statement
+### Transforming Customer Data into Actionable Business Insights
 
-A leading retail company wants to better understand its customers’ shopping behavior in order
-to improve sales, customer satisfaction, and long-term loyalty. The management team has
-noticed changes in purchasing patterns across demographics, product categories, and sales
-channels (online vs. offline). They are particularly interested in uncovering which factors, such
-as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat
-purchases.
-You are tasked with analyzing the company’s consumer behavior dataset to answer the
-following overarching business question:
-“How can the company leverage consumer shopping data to identify trends, improve
-customer engagement, and optimize marketing and product strategies?”
+Customer Shopping Behaviour Analysis is an end-to-end Data Analytics project that simulates how modern businesses leverage customer data to drive strategic decisions. By combining SQL, Python, and Power BI, this project uncovers valuable insights into customer purchasing patterns, revenue trends, product performance, and shopping preferences.
+
+The project follows an industry-standard analytics workflow—from data preparation and exploratory analysis to interactive dashboard development and business intelligence reporting.
+
+Whether you're a business stakeholder looking to improve customer engagement or a data enthusiast exploring real-world analytics, this project demonstrates how data can be transformed into meaningful and actionable insights.
 
 ## Project Poster
 
