@@ -16,7 +16,7 @@ customer engagement, and optimize marketing and product strategies?”
 
 ## Project Poster
 
-![Project Poster](project poster.png.png)
+![Project Poster](project poster.png)
 
 
 📌 Project Overview
