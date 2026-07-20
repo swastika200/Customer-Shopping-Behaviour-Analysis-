@@ -39,8 +39,11 @@ Generated business insights to help understand customer behavior and improve str
 
 ## Tools & Technologies
 SQL
+
 Python
+
 Power BI
+
 CSV Dataset
 
 💡 Thanks for checking out the project!🚀
