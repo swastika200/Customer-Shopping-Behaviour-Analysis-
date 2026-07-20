@@ -16,7 +16,7 @@ customer engagement, and optimize marketing and product strategies?”
 
 ## Project Poster
 
-![Project Poster](project poster.png)
+![Project Poster](project_poster.png)
 
 
 📌 Project Overview
@@ -33,8 +33,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ## Dashboard View
 
-(Dashboard.png)
-
+![Dashboard Preview](dashboard_preview.png)
 
 ## Key Highlights
 
